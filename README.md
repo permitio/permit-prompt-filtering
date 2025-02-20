@@ -2,6 +2,8 @@
 
 This demo showcases building a dynamic access control system that combines OpenAI's natural language understanding with Permit.io's ABAC (Attribute-Based Access Control). The system intelligently classifies user requests and enforces permissions based on user attributes.
 
+Read the blog here: https://www.permit.io/blog/ai-prompt-classification-for-access-control
+
 ## Overview
 
 The system handles two types of access scenarios to demonstrate its flexibility:
